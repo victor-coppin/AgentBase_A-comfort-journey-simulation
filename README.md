@@ -11,7 +11,8 @@ It explores how infrastructure like bike lanes impacts the travel efficiency and
 - Switchable road segments for testing impact
 
 ## Preview
-![screenshot]("assets/A confort journey simulation.png")
+![screenshot](assets/A%20confort%20journey%20simulation.png)
+
 
 
 ## Full Model Documentation (ODD)
